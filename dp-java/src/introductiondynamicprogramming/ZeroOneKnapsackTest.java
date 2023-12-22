@@ -14,7 +14,7 @@ package introductiondynamicprogramming;
 *
 * */
 
-public class ZeroOneKnapsack {
+public class ZeroOneKnapsackTest {
     public static int zeroOneKnapsack(int[] values, int[] weights, int capacity){
         int valuesLength = values.length;
         int[][] dp = new int[valuesLength+1][capacity+1];

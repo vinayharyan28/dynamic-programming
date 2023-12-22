@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package introductiondynamicprogramming;
 
 
 public class UnboundedKnapsack {
